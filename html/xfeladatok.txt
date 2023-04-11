@@ -1,0 +1,44 @@
+
+
+Az első forduló feladata 3 részből tevődik össze.
+1. A csapatoknak egy weblap rendszert kell készíteniük magyar tudósok, feltalálók életútjának és
+munkásságának bemutatására, amelyen belül korszakok vagy szakterületek szerinti rendszerezést is
+meg kell oldani. A megvalósítás során törekedjetek a szemléletességre és a szakszerűségre! A
+weblap statikus oldalakból épül fel, de értékelésekor előnyt jelent a hivatkozások és a multimédiás
+lehetőségek alkalmazása
+
+
+
+2. A feladat második része egy legalább 5 kérdést és a hozzájuk tartozó válaszlehetőségeket
+tartalmazó kvíz készítése statikus HTML lapokon (egy oldalon egy kérdés). A tudásellenőrző
+kérdések az első feladatrészben megvalósított honlapon található információkhoz kapcsolódjanak.
+Előnyt jelent, ha a végén megkapjuk a helyes válaszok darabszámát.
+
+
+
+3. Végül a második feladatrészben elkészített kérdésekre alapozva dinamikusan építsétek fel a kvíz
+HTML lapjait. Ennek megvalósításához az alábbi módszert javasoljuk.
+Egy Excel táblázatban el kell tárolni a kérdéseket (HTML lapokat) az alábbi formában:
+(lap azonosítója, kérdés, válasz_1, link_1, válasz_2, link_2, válasz_3, link_3)
+Azaz minden kérdés külön sorban, és utána a három válaszlehetőség. Minden válasz után meg kell
+adni, hogy a felhasználó melyik lapon folytassa a kvízt az adott válasz esetén. Ezt követően
+Wordben körlevelet kell készíteni az Excel adatforrás felhasználásával. Az így kapott lapokat
+használjuk fel a HTML lapok előállítására.
+
+
+
+Értékelési szempontok:
+ hibamentes működés
+ a weblap rendszer struktúrája, modularizálása (első feladat)
+ megjelenés, vizuális elemek
+ szakmai tartalom (a bemutató honlap esetén)
+ bemutatott személyek száma, kvízkérdések száma
+ a kvíz tanulást támogató szerepe
+ a dinamikus kvíz előállítási módszere, komplexitása
+Beküldendő fájlok:
+
+
+
+Az Excel fájlt, a HTML lapokat és a kapcsolódó multimédia fájlokat csomagoljátok össze egy ZIP
+állományba, és töltsétek fel GitHubra. Ennek a linkjét küldjétek el nekünk. Az e-mail fejlécébe
+feltétlenül írjátok bele a csapat nevét!
